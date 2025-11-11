@@ -1,6 +1,6 @@
 # ComfyUI-API-Manager
 
-A simple API key management solution for ComfyUI workflows with automatic load balancing support.
+A LLM API key management solution for ComfyUI with automatic load balancing support.
 
 ## Features
 
