@@ -1,0 +1,16 @@
+[project]
+name = "Comfyui-API-Manager"
+A LLM API key management solution for ComfyUI with automatic load balancing support."
+version = "0.0.1"
+license = {file = "LICENSE"}
+
+dependencies = [""]
+    
+[project.urls]
+Repository = "https://github.com/1038lab/Comfyui-API-Manager"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "Comfyui-API-Manager"
+Icon = ""
